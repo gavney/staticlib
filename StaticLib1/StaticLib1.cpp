@@ -5,7 +5,7 @@
 #include "framework.h"
 #include <string>
 
-bool compareStrings(const std::string& s1, const std::string& s2) {
+bool compareStrings2(const std::string& s1, const std::string& s2) {
     return s1 == s2;
 }
 
