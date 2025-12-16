@@ -5,7 +5,11 @@
 #include "framework.h"
 #include <string>
 
+<<<<<<< HEAD
 bool compareStrings2(const std::string& s1, const std::string& s2) {
+=======
+bool compareStrings1(const std::string& s1, const std::string& s2) {
+>>>>>>> feature-branch
     return s1 == s2;
 }
 
